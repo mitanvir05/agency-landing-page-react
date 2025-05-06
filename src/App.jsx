@@ -3,6 +3,7 @@ import FAQ from "./components/FAQ";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import Pricing from "./components/Pricing";
 import TrialSection from "./components/TrialSection";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Header/>
       <Hero/>
       <CompaniesLogo/>
+      <Pricing/>
       <FAQ/>
       <TrialSection/>
       <Footer/>
