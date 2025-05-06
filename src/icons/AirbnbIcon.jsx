@@ -19,4 +19,3 @@ const AirbnbIcon = () => {
 };
 
 export default AirbnbIcon;
-

@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Pricing from "./components/Pricing";
+import Service from "./components/Service";
 import Testimonial from "./components/Testimonial";
 import TrialSection from "./components/TrialSection";
 import TrustedSection from "./components/TrustedSection";
@@ -15,6 +16,7 @@ function App() {
       <Hero/>
       <CompaniesLogo/>
       <TrustedSection/>
+      <Service/>
       <Testimonial/>
       <Pricing/>
       <FAQ/>
