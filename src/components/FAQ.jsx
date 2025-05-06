@@ -13,8 +13,8 @@ const FAQ = () => {
           <div
             id="accordion-flush"
             data-accordion="collapse"
-            data-active-classNamees="bg-white dark:bg-gray-900 text-gray-900 dark:text-white"
-            data-inactive-classNamees="text-gray-500 dark:text-gray-400"
+            data-active-classes="bg-white dark:bg-gray-900 text-gray-900 dark:text-white"
+            data-inactive-classes="text-gray-500 dark:text-gray-400"
           >
             <h3 id="accordion-flush-heading-1">
               <button

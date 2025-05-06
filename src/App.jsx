@@ -12,16 +12,16 @@ import TrustedSection from "./components/TrustedSection";
 function App() {
   return (
     <div className="bg-gray-100 min-h-screen flex flex-col">
-      <Header/>
-      <Hero/>
-      <CompaniesLogo/>
-      <TrustedSection/>
-      <Service/>
-      <Testimonial/>
-      <Pricing/>
-      <FAQ/>
-      <TrialSection/>
-      <Footer/>
+      <Header />
+      <Hero />
+      <CompaniesLogo />
+      <TrustedSection />
+      <Service />
+      <Testimonial />
+      <Pricing />
+      <FAQ />
+      <TrialSection />
+      <Footer />
     </div>
   );
 }
