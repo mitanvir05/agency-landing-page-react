@@ -6,6 +6,7 @@ import Hero from "./components/Hero";
 import Pricing from "./components/Pricing";
 import Testimonial from "./components/Testimonial";
 import TrialSection from "./components/TrialSection";
+import TrustedSection from "./components/TrustedSection";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <Hero/>
       <CompaniesLogo/>
+      <TrustedSection/>
       <Testimonial/>
       <Pricing/>
       <FAQ/>
