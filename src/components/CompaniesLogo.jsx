@@ -1,10 +1,10 @@
 import React from "react";
-import AirbnbIcon from "./icons/AirbnbIcon";
-import GoogleIcon from "./icons/GoogleIcon";
-import MicrosoftIcon from "./icons/MicrosoftIcon";
-import SpotifyIcon from "./icons/SpotifyIcon";
-import MailChimpIcon from "./icons/MailChimpIcon";
-import MashableIcon from "./icons/MashableIcon";
+import AirbnbIcon from "../icons/AirbnbIcon";
+import GoogleIcon from "../icons/GoogleIcon";
+import MicrosoftIcon from "../icons/MicrosoftIcon";
+import SpotifyIcon from "../icons/SpotifyIcon";
+import MailChimpIcon from "../icons/MailChimpIcon";
+import MashableIcon from "../icons/MashableIcon";
 
 const CompaniesLogo = () => {
   return (

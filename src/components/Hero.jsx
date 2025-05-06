@@ -1,6 +1,6 @@
 import React from "react";
-import GithubIcon from "./icons/GithubIcon";
-import FigmaIcon from "./icons/FigmaIcon";
+import GithubIcon from "../icons/GithubIcon";
+import FigmaIcon from "../icons/FigmaIcon";
 import heroImg from "../assets/hero.png";
 const Hero = () => {
   return (
