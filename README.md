@@ -1,12 +1,30 @@
-# React + Vite
+# Agency Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a landing page template built with **React**, **Tailwind CSS**, and **Vite**. It is designed to showcase digital products & brands with a modern and professional layout. The page includes predefined components for various sections such as pricing, testimonials, and features, along with a clean and responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
 
-## Expanding the ESLint configuration
+You can view the live demo of the landing page here:  
+[Agency Landing Page](https://agency-landing-page-react.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- **Responsive Design**: Mobile-first approach with responsive layouts.
+- **Tailwind CSS**: Styling is handled using Tailwind CSS for utility-first styling.
+- **React**: The website is built using React for fast rendering and dynamic behavior.
+- **Vite**: A fast build tool and development server, ensuring fast hot module replacement (HMR) and builds.
+- **SEO Optimized**: The page is optimized for search engines for better visibility.
+- **Easy to Customize**: Pre-designed components that are easily customizable to suit your needs.
+
+---
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Vite**: A modern build tool for fast development and optimized production builds.
+- **ESLint**: Linting to ensure code quality and consistency.
