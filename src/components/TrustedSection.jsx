@@ -4,7 +4,7 @@ import StatCard from "../utils/StatCard";
 import StatIcon1 from "../icons/StatIcon1";
 import StatIcon2 from "../icons/StatIcon2";
 import StatIcon4 from "../icons/StatIcon4";
-import StatIcon3 from "../icons/StatIcon3.JSX";
+import StatIcon3 from "../icons/StatIcon3.jsx";
 
 const TrustedSection = () => {
   return (
